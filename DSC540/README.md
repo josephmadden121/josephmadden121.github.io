@@ -1,0 +1,2 @@
+Apple Stock information (DSC540)
+In this project, I worked on cleansing and transforming three datasets: “AAPL.csv”, “apple_stock_data.csv”, and “sales_record.csv”. These datasets contained information on Apple’s stock prices, sales records, and other related data. The primary goal was to merge these cleaned datasets into a single dataset in a SQLite database and then create five visualizations to demonstrate all the data.
