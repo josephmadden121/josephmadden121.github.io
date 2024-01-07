@@ -25,4 +25,5 @@ I haven’t done the second project yet; this is week 4 which is when the first 
 I haven’t done the third project yet; this is week 4 which is when the first project is due. Week 12 is when I’ll finish the third project and I’ll add it to my list of projects.
 
 Brief Description of project
+
 The National Football League (NFL) faces an ongoing concern about players safety, specifically related to injuries sustained on different playing surfaces. This research aims to investigate the impact of artificial turf versus natural grass on injury rates, with a focus on the occurrence of ruptured Achilles injuries. The objective is to provide evidence-based insights to inform decisions related to field selection and improve player safety.
