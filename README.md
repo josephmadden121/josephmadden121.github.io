@@ -1,7 +1,7 @@
 A list of projects
 
-1.	Peruvian Tourism Data Project (DSC530)
-The goal of this data analysis project is to explore and understand key patterns and factors related to tourism in Peru.
+1.	Pokemon Data Project (DSC530)
+The goal of this data analysis project is to explore and understand containing statistics on 800 Pokemon cards and creating various visualizations. several insights can be derived:
 2.	Apple Stock information (DSC540)
 In this project, I worked on cleansing and transforming three datasets: “AAPL.csv”, “apple_stock_data.csv”, and “sales_record.csv”. These datasets contained information on Apple’s stock prices, sales records, and other related data. The primary goal was to merge these cleaned datasets into a single dataset in a SQLite database and then create five visualizations to demonstrate all the data.
 3.	Loan Default Prediction Project (DSC550)
